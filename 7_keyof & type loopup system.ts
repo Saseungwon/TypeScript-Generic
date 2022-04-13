@@ -8,6 +8,7 @@ const person: IPerson = {
   age: 36,
 }; 
 
+
 //  IPerson[keyof IPerson] 
 // => IPerson["name" | "age"]
 // => IPerson["name"] | IPerson["age"]
